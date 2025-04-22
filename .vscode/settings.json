@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "iosfwd": "cpp",
+        "memory": "cpp",
+        "fcntl.h": "c"
     }
 }

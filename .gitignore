@@ -1,1 +1,28 @@
+# Ignore compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Ignore precompiled headers
+*.gch
+*.pch
+
+# Ignore compiler-generated files
+*.i
+*.s
+*.lst
+*.map
+
+# Ignore libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Ignore executables
+*.exe
+*.out
+*.app
+
 build/
