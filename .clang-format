@@ -1,4 +1,18 @@
+# Style based on Google's C++ style guide
 BasedOnStyle: Google
 IndentWidth: 4
 ColumnLimit: 80
-AllowShortFunctionsOnASingleLine: Empty
+Language: Cpp
+
+# Control of individual formatting aspects
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AlwaysBreakTemplateDeclarations: Yes
+BreakBeforeBraces: Attach
+PointerAlignment: Left
+SortIncludes: true
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+TabWidth: 4
+UseTab: Never
