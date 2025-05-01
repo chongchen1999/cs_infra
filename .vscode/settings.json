@@ -3,6 +3,7 @@
         "stdio.h": "c",
         "iosfwd": "cpp",
         "memory": "cpp",
-        "fcntl.h": "c"
+        "fcntl.h": "c",
+        "iostream": "cpp"
     }
 }
